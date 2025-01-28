@@ -57,5 +57,4 @@ streamlit run app.py
 4. Receive strategic recommendations and notifications via Slack.
 
 ---
-This project enables businesses to make data-driven pricing and marketing decisions based on real-time competitor data and customer feedback analysis.
 

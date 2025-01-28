@@ -1,0 +1,12 @@
+1. streamlit
+2. transformers
+3. numpy
+4. pandas
+5. plotly
+6. requests
+7. scikit-learn
+8. statsmodels
+9. streamlit
+10. transformers
+11. selenium
+12. webdriver-manager
